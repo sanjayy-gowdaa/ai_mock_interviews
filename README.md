@@ -51,6 +51,9 @@ If you're getting started and need assistance or face any bugs, join our active 
 - Firebase
 - Tailwind CSS
 - Vapi AI
+- shadcn/ui
+- Google Gemeni
+- Zod
 
 ## <a name="features">🔋 Features</a>
 
@@ -61,6 +64,10 @@ If you're getting started and need assistance or face any bugs, join our active 
 👉 **Get feedback from AI**: Take the interview with AI voice agent, and receive instant feedback based on your conversation.
 
 👉 **Modern UI/UX**: A sleek and user-friendly interface designed for a great experience.
+
+👉 Interview Page: Conduct AI-driven interviews with real-time feedback and detailed transcripts.
+
+👉 Dashboard: Manage and track all your interviews with easy navigation.
 
 👉 **Responsiveness**: Fully responsive design that works seamlessly across devices.
 
@@ -117,7 +124,7 @@ FIREBASE_CLIENT_EMAIL=
 FIREBASE_PRIVATE_KEY=
 ```
 
-Replace the placeholder values with your actual **[Firebase](https://firebase.google.com/)**, **[Vapi](https://vapi.ai)**, and **[Imagekit](https://imagekit.io/)** credentials.
+Replace the placeholder values with your actual **[Firebase](https://firebase.google.com/)**, **[Vapi](https://vapi.ai/?utm_source=youtube&utm_medium=video&utm_campaign=jsmastery_recruitingpractice&utm_content=paid_partner&utm_term=recruitingpractice)** credentials.
 
 **Running the Project**
 
@@ -680,4 +687,3 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 <a href="https://jsmastery.pro/next15" target="_blank">
    <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
 </a>
-```
