@@ -1,6 +1,7 @@
 import AuthForm from "@/components/AuthForm";
 
-const Page = async () => {
-    return <AuthForm type="sign-up" />
-}
-export default Page
+const Page = () => {
+  return <AuthForm type="sign-up" />;
+};
+
+export default Page;
