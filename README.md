@@ -65,9 +65,9 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Modern UI/UX**: A sleek and user-friendly interface designed for a great experience.
 
-👉 Interview Page: Conduct AI-driven interviews with real-time feedback and detailed transcripts.
+👉 **Interview Page**: Conduct AI-driven interviews with real-time feedback and detailed transcripts.
 
-👉 Dashboard: Manage and track all your interviews with easy navigation.
+👉 **Dashboard**: Manage and track all your interviews with easy navigation.
 
 👉 **Responsiveness**: Fully responsive design that works seamlessly across devices.
 
